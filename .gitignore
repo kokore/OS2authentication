@@ -7,3 +7,4 @@ scripts
 views/Authentication
 views/Main
 views/Starter.ejs
+resources
